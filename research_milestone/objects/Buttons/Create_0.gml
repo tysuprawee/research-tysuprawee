@@ -1,1 +1,0 @@
-global.test1 = "hey"
